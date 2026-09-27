@@ -1,0 +1,17 @@
+{
+  "threshold": 1.0250418186187744,
+  "input_features": [
+    "Amount",
+    "PreviousAmount",
+    "TransactionsToday",
+    "NewDevice",
+    "NewLocation",
+    "TransactionTypeCode",
+    "HourSin",
+    "HourCos",
+    "DayOfWeekSin",
+    "DayOfWeekCos",
+    "IsNight",
+    "AmountVsPrevious"
+  ]
+}
